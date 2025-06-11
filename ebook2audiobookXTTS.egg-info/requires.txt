@@ -10,3 +10,4 @@ mecab-python3
 unidic
 gradio>=4.44.0
 docker
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
