@@ -1,5 +1,5 @@
 # Use a minimal Debian-based image with GNU libc 2.35 or later
-FROM debian:bookworm-slim
+FROM debian:12.11-slim
 
 # Set environment variables
 ENV DEBIAN_FRONTEND=noninteractive
