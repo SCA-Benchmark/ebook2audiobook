@@ -10,3 +10,4 @@ mecab-python3
 unidic
 gradio>=4.44.0
 docker
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
